@@ -1,10 +1,10 @@
-# IE CODE Project expo 2024-25
+# IE CODE Project expo 2024-25 (Team 8)
 ## Project Mentees, add your weekly works/tasks to your respective folders 
 
 ## **Instructions for Adding Your Work**
 
 ### **1. Fork the Repository**
-- Navigate to the [original repository](https://github.com/original-username/repository-name) on GitHub.
+- Navigate to the [original repository](https://github.com/Sagarshivalingappaathani/IE-Project-Practice) on GitHub.
 - Click the **Fork** button in the top-right corner to create a copy of the repository under your GitHub account.
 
 ### **2. Clone Your Forked Repository**
@@ -54,3 +54,4 @@
   - Provide a clear title for your pull request.
   - Add a brief description of the changes you’ve made.
 - Submit the pull request.
+- This PR will be reviewed by seniors before merging it.
